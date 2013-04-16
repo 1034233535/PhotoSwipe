@@ -1,4 +1,16 @@
-PhotoSwipe with zoom android compatible  - The web image gallery for your mobile device
+PhotoSwipe with zoom android compatible 
 =========================================================
+EXPERIMENTAL!!!
 
-web: [www.photoswipe.com](http://www.photoswipe.com), [www.codecomputerlove.com](http://www.codecomputerlove.com)
+web demo: [http://agliottone.github.io/PhotoSwipe/](http://agliottone.github.io/PhotoSwipe/)
+
+Req:
+
+transit [http://ricostacruz.com/jquery.transit/](http://ricostacruz.com/jquery.transit/)
+hammerjs [http://eightmedia.github.io/hammer.js/](http://eightmedia.github.io/hammer.js/)
+
+Usage:
+<script type="text/javascript" charset="utf-8" src="code.photoswipe-3.0.5.js"></script>
+<script type="text/javascript" charset="utf-8" src="jquery.transit.js"></script>
+<script type="text/javascript" charset="utf-8" src="hammer.js"></script>
+<script type="text/javascript" charset="utf-8" src="jquery.hammer.js"></script>
