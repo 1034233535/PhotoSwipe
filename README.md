@@ -2,8 +2,6 @@ PhotoSwipe with zoom android compatible
 =========================================================
 EXPERIMENTAL!!!
 
-web demo: [http://agliottone.github.io/PhotoSwipe/](http://agliottone.github.io/PhotoSwipe/)
-
 Req:
 
 transit [http://ricostacruz.com/jquery.transit/](http://ricostacruz.com/jquery.transit/)
